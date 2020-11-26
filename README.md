@@ -1,2 +1,2 @@
 # public
-Those documents which could be useful for all
+Documents, Projects handled in public workshops will be shared here.
