@@ -17,11 +17,11 @@ namespace TextAnalytics_Demo
 
             SentimentAnalysisExample(client);
 
-            //LanguageDetectionExample(client);
-            //EntityRecognitionExample(client);
-            //EntityLinkingExample(client);
-            //RecognizePIIExample(client);
-            //KeyPhraseExtractionExample(client);
+            LanguageDetectionExample(client);
+            EntityRecognitionExample(client);
+            EntityLinkingExample(client);
+            RecognizePIIExample(client);
+            KeyPhraseExtractionExample(client);
 
             Console.Write("Press any key to exit.");
             Console.ReadKey();
